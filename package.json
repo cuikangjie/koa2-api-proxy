@@ -1,0 +1,21 @@
+{
+  "name": "koa2-api-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "cuikangjie_90h@126.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+
+    "querystringify":"1.0.0",
+    "node-fetch":"1.7.2",
+    "co-body":"^5.1.1"
+  },
+  "devDependencies": {
+      "koa-router": ">=7.x.x",
+      "koa":"^2.3.0"
+  }
+}
